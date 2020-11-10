@@ -1,0 +1,402 @@
+Country,Type,Abbreviation,count
+Angola,Central Hospital,CH,3.0
+Angola,Centro Materno Infantil,CMI,39.0
+Angola,Centro Sanatorio Materno Infantil,CSMI,3.0
+Angola,Centro de Saude,CS,231.0
+Angola,General Hospital,GH,3.0
+Angola,Hospital,HOSP,32.0
+Angola,Municipal Hospital,MH,100.0
+Angola,Posto de Saude,PS,1152.0
+Angola,Provincial Hospital,PH,11.0
+Angola,Regional Hospital,RH,1.0
+Benin,Centre Hospitalier Departemental,CHD,5.0
+Benin,Centre Medical,CM,24.0
+Benin,Centre Medico-Social,CMS,3.0
+Benin,Centre National Hospitalier Universitaire,CNHU,2.0
+Benin,Centre de Sante,CS,
+Benin,Centre de Sante Central,CSC,11.0
+Benin,Centre de Sante d'Arrondissement,CSA,306.0
+Benin,Centre de Sante de Sous-Prefecture,CSSP,8.0
+Benin,Centro de Sante de Circonscription Urbane,CSCU,1.0
+Benin,Clinic,CLINIC,4.0
+Benin,Community Health Centre,CHC,132.0
+Benin,Dispensary,DISP,27.0
+Benin,Health Centre,HC,246.0
+Benin,Hospital,HOSP,20.0
+Benin,Hospital de Zone,HZ,21.0
+Benin,Unites de Sante de Village,USV,9.0
+Botswana,Clinic,CLINIC,264.0
+Botswana,District Hospital,DH,10.0
+Botswana,Health Post,HP,331.0
+Botswana,Primary Hospital,PH,17.0
+Botswana,Referral Hospital,RH,2.0
+Burkina Faso,Centre Hospitalier National,CHN,1.0
+Burkina Faso,Centre Hospitalier Regional,CHR,9.0
+Burkina Faso,Centre Hospitalier Universitaire National,CHUN,3.0
+Burkina Faso,Centre Medical,CM,41.0
+Burkina Faso,Centre Medical Avec Antenne Chirurgicale,CMAAC,49.0
+Burkina Faso,Centre de Sante et de Promotion Sociale,CSPS,1537.0
+Burkina Faso,Dispensary,DISP,81.0
+Burundi,Centre de Sante,CDS,
+Burundi,Health Centre,HC,616.0
+Burundi,Hospital Tertiaire,HT,3.0
+Burundi,Hospital de District,HD,46.0
+Cameroon,Centre Medical d'Arrondissement,CMA,223.0
+Cameroon,Centre de Sante,CS,
+Cameroon,Centre de Sante Integre,CSI,2241.0
+Cameroon,Clinic,CLINIC,3.0
+Cameroon,Dispensary,DISP,48.0
+Cameroon,Health Centre,HC,362.0
+Cameroon,Hospital,HOSP,
+Cameroon,Hospital Centraux,HOSPC,2.0
+Cameroon,Hospital General,HG,3.0
+Cameroon,Hospital Regional,HR,14.0
+Cameroon,Hospital de District,HD,165.0
+Cape Verde,Centro de Saude,CS,31.0
+Cape Verde,Hospital Centrais,HC,2.0
+Cape Verde,Hospital Regionais,HR,7.0
+Cape Verde,Postos Sanitarios,PS,26.0
+Central African Republic,Centre de Sante,CS,2.0
+Central African Republic,"Centre de Sante ""A""",CSA,43.0
+Central African Republic,"Centre de Sante ""B""",CSB,44.0
+Central African Republic,"Centre de Sante ""C""",CSC,57.0
+Central African Republic,"Centre de Sante ""D""",CSD,2.0
+Central African Republic,"Centre de Sante ""E""",CSE,61.0
+Central African Republic,Hospital Centraux,HC,3.0
+Central African Republic,Hospital District,HD,
+Central African Republic,Hospital Prefectoraux,HP,12.0
+Central African Republic,Hospital Regional Universitaire,HRU,5.0
+Central African Republic,Poste de Sante,PS,326.0
+Chad,Centre de Sante,CS,
+Chad,Health Centre,HC,1205.0
+Chad,Hospital de District,HD,70.0
+Chad,Hospital de Nationaux,HN,1.0
+Chad,Hospital de Regional,HR,7.0
+Comoros,Centre Hospitalier National,CHN,1.0
+Comoros,Centre Hospitalier Regional,CHR,2.0
+Comoros,Centre Medico-Chirurgical,CMC,2.0
+Comoros,Centre Medico-Urban,CMU,3.0
+Comoros,Dispensary,DISP,1.0
+Comoros,Health Centre,HC,12.0
+Comoros,Poste de Sante,PS,45.0
+Congo,Centre de Sante Integre,CSI,302.0
+Congo,Hospital,HOSP,2.0
+Congo,Hospital Comboutique,HC,9.0
+Congo,Hospital General,HG,4.0
+Congo,Poste de Sante,PS,
+Congo,University Hospital,UH,1.0
+Congo,l'Hospital de Base,HB,10.0
+Cote d'Ivoire,Centre Medico-Social,CMS,33.0
+Cote d'Ivoire,Centre de Sante Rural,CSR,1330.0
+Cote d'Ivoire,Centre de Sante Urban,CSU,329.0
+Cote d'Ivoire,Hospital General,HG,77.0
+Cote d'Ivoire,Hospitalier Regional,HR,19.0
+Cote d'Ivoire,Hospitalier Universitaire,HU,4.0
+Democratic Republic of the Congo,Centre Hospital,CH,41.0
+Democratic Republic of the Congo,Centre Medical,CM,834.0
+Democratic Republic of the Congo,Centre Medico-Chirurgical,CMC,3.0
+Democratic Republic of the Congo,Centre de Sante,CS,8512.0
+Democratic Republic of the Congo,Centre de Sante Municipal,CSM,4.0
+Democratic Republic of the Congo,Centre de Sante de Reference,CSR,160.0
+Democratic Republic of the Congo,Clinic,CLINIC,177.0
+Democratic Republic of the Congo,Dispensary,DISP,132.0
+Democratic Republic of the Congo,Hospital,HOSP,10.0
+Democratic Republic of the Congo,Hospital General de Reference,HGR,384.0
+Democratic Republic of the Congo,Polyclinic,PCLINIC,98.0
+Democratic Republic of the Congo,Poste de Sante,PS,4231.0
+Djibouti,Community Health Centre,CHC,12.0
+Djibouti,Health Post,HP,41.0
+Djibouti,Hospital Medical Centre,HMC,5.0
+Djibouti,Tertiary Hospital,TH,8.0
+Equatorial Guinea,Centre de Sante,CS,
+Equatorial Guinea,District Hospital,HD,11.0
+Equatorial Guinea,General Hospital,HG,
+Equatorial Guinea,Health Centre,HC,29.0
+Equatorial Guinea,Regional Hospital,HR,7.0
+Eritrea,Clinic,CLINIC,6.0
+Eritrea,Health Centre,HC,53.0
+Eritrea,Health Station,HS,186.0
+Eritrea,Hospital,HOSP,16.0
+Eritrea,Mini Clinic,MC,2.0
+Eritrea,Mini Hospital,MH,5.0
+Eritrea,National Referral Hospital,NRH,1.0
+Ethiopia,Clinic,CLINIC,3135.0
+Ethiopia,District Hospital,DH,5.0
+Ethiopia,General Hospital,GH,4.0
+Ethiopia,Health Centre,HC,769.0
+Ethiopia,Health Post,HP,1002.0
+Ethiopia,Health Station,HS,138.0
+Ethiopia,Hospital,HOSP,144.0
+Ethiopia,National Hospital,NH,1.0
+Ethiopia,Nucleas Health Centre,NHC,10.0
+Ethiopia,Referral Hospital,RH,4.0
+Ethiopia,Zonal Hospital,ZH,3.0
+Gabon,Centre Hospitalier Urban,CHU,1.0
+Gabon,Centre de Sante,CS,
+Gabon,Centre de Sante Urban,CSU,4.0
+Gabon,Clinic,CLINIC,
+Gabon,Dispensary,DISP,387.0
+Gabon,Health Centre,HC,92.0
+Gabon,Hospital,HOSP,
+Gabon,Hospital Cooperation,HOSPC,3.0
+Gabon,Medical Centre,MC,43.0
+Gabon,Polyclinic,PCLINIC,
+Gabon,Regional Hospital,RH,10.0
+Gabon,University Hospital,UH,2.0
+Gambia,Clinic,CLINIC,46.0
+Gambia,General Hospital,GH,2.0
+Gambia,Health Centre,HC,51.0
+Gambia,Hospital,HOSP,3.0
+Gambia,Teaching Hospital,TH,1.0
+Ghana,Clinic,CLINIC,398.0
+Ghana,Community-based Health Planning and Services,CHPS,632.0
+Ghana,District Hospital,DH,81.0
+Ghana,General Hospital,GH,3.0
+Ghana,Health Centre,HC,740.0
+Ghana,Hospital,HOSP,77.0
+Ghana,Municipal Hospital,MH,6.0
+Ghana,Polyclinic,PCLINIC,12.0
+Ghana,Regional Hospital,RH,8.0
+Ghana,Teaching Hospital,TH,3.0
+Guinea,Centre de Sante,CS,
+Guinea,Centre de Sante Rural,CSR,
+Guinea,Centre de Sante Urban,CSU,
+Guinea,Health Centre,HC,470.0
+Guinea,Hospital Prefectoral,HP,25.0
+Guinea,Hospital Regional,HR,7.0
+Guinea,National Hospital,NH,3.0
+Guinea,Poste de Sante,PS,1241.0
+Guinea Bissau,Centre de Sante,CS,
+Guinea Bissau,Centro Materno Infantil,CMI,
+Guinea Bissau,Centro de Saude,CS2,
+Guinea Bissau,Hospital,HOSP,4.0
+Guinea Bissau,National Hospital,NH,1.0
+Guinea Bissau,Regional Hospital,RH,3.0
+Kenya,Clinic,CLINIC,348.0
+Kenya,County Referral Hospital,CRH,3.0
+Kenya,Dispensary,DISP,4352.0
+Kenya,District Hospital,DH,121.0
+Kenya,Health Centre,HC,1044.0
+Kenya,Hospital,HOSP,19.0
+Kenya,Mission Hospital,MH,89.0
+Kenya,National Referral Hospital,NRH,2.0
+Kenya,Provincial General Hospital,PGH,10.0
+Kenya,Sub-District Hospital,SDH,158.0
+Lesotho,District Hospital,DH,11.0
+Lesotho,Filter Clinic,FC,2.0
+Lesotho,Health Centre,HC,95.0
+Lesotho,Hospital,HOSP,
+Lesotho,Mission Hospital,MH,8.0
+Lesotho,National Referral Centre,NRC,1.0
+Liberia,Clinic,CLINIC,661.0
+Liberia,General Hospital,CH,
+Liberia,Health Centre,HC,41.0
+Liberia,Hospital,HOSP,29.0
+Liberia,Mission Hospital,MH,8.0
+Liberia,National Referral Hospital,NRH,1.0
+Madagascar,Basic Health Center I,CSB1,
+Madagascar,Basic Health Center II,CSB2,
+Madagascar,District Hospital,CHD1,
+Madagascar,Health Centre,HC,1642.0
+Madagascar,Health Post,HP,910.0
+Madagascar,Hospital,HOSP,125.0
+Malawi,Central Hospital,CEH,4.0
+Malawi,Clinic,CLINIC,22.0
+Malawi,Community Hospital,COH,2.0
+Malawi,District Hospital,DH,24.0
+Malawi,Health Centre,HC,457.0
+Malawi,Health Post/Dispensary,HPD,87.0
+Malawi,Mission Hospital,MH,27.0
+Malawi,Rural Hospital,RH,25.0
+Mali,Centre de Kinesitherapie,CK,
+Mali,Centre de Sante,CS,
+Mali,Clinic,CLINIC,94.0
+Mali,Community Health Centre,CSCOM,1294.0
+Mali,Hospital,HOSP,14.0
+Mali,Polyclinic,PCLINIC,11.0
+Mali,Referral Health Centre,CSREF,61.0
+Mali,Regional Hospital,RH,1.0
+Mali,University Hospital,UH,3.0
+Mauritania,Centre de Sante,CS,
+Mauritania,General Hospital,GH,4.0
+Mauritania,Health Centre,HC,75.0
+Mauritania,Health Post,HP,552.0
+Mauritania,Hospital,HOSP,14.0
+Mauritania,Poste de Sante,PS,
+Mauritius,Area Health Centre,AHC,26.0
+Mauritius,Community Health Centre,CHC,125.0
+Mauritius,Community Hospital,CH,2.0
+Mauritius,District Hospital,DH,3.0
+Mauritius,Family Health Clinic,FHC,3.0
+Mauritius,Medi-Clinic,MC,2.0
+Mauritius,Regional Hospital,RH,5.0
+Mauritius,Social Welfare Centre,SWC,
+Mozambique,Centro de Saude,CS,
+Mozambique,Centro de Saude Rural I,CSRI,130.0
+Mozambique,Centro de Saude Rural II,CSRII,982.0
+Mozambique,Centro de Saude Urbano A,CSUA,39.0
+Mozambique,Centro de Saude Urbano B,CSUB,56.0
+Mozambique,Centro de Saude Urbano C,CSUC,49.0
+Mozambique,Hospital Central,HC,3.0
+Mozambique,Hospital District,HD,16.0
+Mozambique,Hospital General,HG,5.0
+Mozambique,Hospital Provincial,HP,8.0
+Mozambique,Hospital Rural,HR,29.0
+Mozambique,Posto de Saude,PS,262.0
+Namibia,Central Hospital,CH,1.0
+Namibia,Clinic,CLINIC,290.0
+Namibia,District Hospital,DH,29.0
+Namibia,Health Centre,HC,43.0
+Namibia,Intermediate Hospital,IH,3.0
+Namibia,Mission Hospital,MH,3.0
+Niger,Centre Hospitalier Universitaire,CHU,1.0
+Niger,Health Hut,HH,2009.0
+Niger,Hospital,HOSP,40.0
+Niger,Integrated Health Centre,CSI,836.0
+Nigeria,Basic Health Centre,BHC,568.0
+Nigeria,Clinic,CLINIC,4354.0
+Nigeria,Comprehensive Health Centre,CHC,434.0
+Nigeria,Comprehensive Primary Health Care,CPHC,
+Nigeria,Cottage Hospital,CH,149.0
+Nigeria,Dispensary,DISP,3239.0
+Nigeria,District Hospital,DH,16.0
+Nigeria,Family Support Program,FSP,
+Nigeria,Federal Medical Centre,FMC,19.0
+Nigeria,General Hospital,GH,529.0
+Nigeria,Health Centre,HC,3402.0
+Nigeria,Health Facility,HF,
+Nigeria,Health Post,HP,3058.0
+Nigeria,Hospital,HOSP,148.0
+Nigeria,Maternal and Child Health,MCH,
+Nigeria,Maternal and Child Health Centre,MCHC,
+Nigeria,Medical Centre,MC,19.0
+Nigeria,Millennium Development Goal,MDG,
+Nigeria,Model Health Centre,MHC,108.0
+Nigeria,Model Primary Health Centre,MPHC,58.0
+Nigeria,National Hospital,NH,1.0
+Nigeria,Patent Medicine Store,PMS,
+Nigeria,Patent Medicine Vendor,PMV,
+Nigeria,Polyclinic,PCLINIC,10.0
+Nigeria,Primary Health Care Centre,PHCC,
+Nigeria,Primary Health Centre,PHC,4639.0
+Nigeria,Rural Hospital,RH,19.0
+Nigeria,State Hospital,SH,12.0
+Nigeria,Traditional Spirit Healer,TH,
+Nigeria,University Teaching Hospital,UTH,25.0
+Rwanda,District Hospital,DH,36.0
+Rwanda,Health Centre,HC,486.0
+Rwanda,Health Post,HP,37.0
+Rwanda,National Referral Hospital,NRH,4.0
+Rwanda,Provincial Hospital,PH,4.0
+Rwanda,Referral Hospital,RH,3.0
+Rwanda,Secondary Health Post,SHP,2.0
+Sao Tome and Principe,Centro de Saude,CS,6.0
+Sao Tome and Principe,Hospital,HOSP,2.0
+Sao Tome and Principe,Posto de Saude,PS,29.0
+Sao Tome and Principe,Postos de Saude Comunitaria,PSC,13.0
+Senegal,Centre Hospitalier National,CHN,5.0
+Senegal,Centre Hospitalier Universitaire,CHU,2.0
+Senegal,Centre de Sante,CS,
+Senegal,Health Centre,HC,87.0
+Senegal,Hospital,HOSP,8.0
+Senegal,Hospital General,HG,1.0
+Senegal,Hospital Regional,HR,13.0
+Senegal,Poste de Sante,PS,1231.0
+Seychelles,Health Centre,HC,17.0
+Seychelles,National Referral Hospital,NRH,1.0
+Sierra Leone,Clinic,CLINIC,11.0
+Sierra Leone,Community Health Centre,CHC,206.0
+Sierra Leone,Community Health Post,CHP,217.0
+Sierra Leone,Health Centre,HC,10.0
+Sierra Leone,Health Post,HP,25.0
+Sierra Leone,Hospital,HOSP,19.0
+Sierra Leone,Maternal and Child Health Post,MCHP,619.0
+Sierra Leone,Mission Hospital,MH,12.0
+Sierra Leone,Refferal Hospital,RH,1.0
+Somalia,District Hospital,DH,3.0
+Somalia,Health Centre,HC,24.0
+Somalia,Health Post,HP,442.0
+Somalia,Hospital,HOSP,70.0
+Somalia,Maternal and Child Health Centre,MCHC,334.0
+Somalia,Referral Hospital,RFH,1.0
+Somalia,Regional Hospital,RGH,5.0
+South Africa,Clinic,CLINIC,3435.0
+South Africa,Community Health Centre,CHC,284.0
+South Africa,Community Health Centre (After hours),CHCA,9.0
+South Africa,Community Health Centre/Clinic,CHCC,8.0
+South Africa,District Hospital,DH,254.0
+South Africa,Health Post,HP,34.0
+South Africa,Hospital,HOSP,
+South Africa,Medical Centre,MC,1.0
+South Africa,National Central Hospital,NCH,9.0
+South Africa,Provincial Tertiary Hospital,PTH,17.0
+South Africa,Regional Hospital,RH,47.0
+South Africa,Satellite Clinic,SC,205.0
+South Sudan,County Hospital,CH,28.0
+South Sudan,Hospital,HOSP,
+South Sudan,Primary Health Care Centre,PHCC,332.0
+South Sudan,Primary Health Care Unit,PHCU,1375.0
+South Sudan,State Hospital,SH,9.0
+South Sudan,Teaching Hospital,TH,3.0
+Sudan,Hospital,HOSP,125.0
+Sudan,National Hospital,NH,1.0
+Sudan,Referral Hospital,RH,1.0
+Sudan,Teaching Hospital,TH,5.0
+Sudan,Type A Hospital,TAH,3.0
+Sudan,Type B Hospital,TBH,7.0
+Sudan,Type C Hospital,TCH,7.0
+Sudan,Type D Hospital,TDH,123.0
+Tanzania,Designated District Hospital,DDH,36.0
+Tanzania,Dispensary,DISP,5406.0
+Tanzania,District Hospital,DH,63.0
+Tanzania,Health Centre,HC,675.0
+Tanzania,Hospital,HOSP,87.0
+Tanzania,National Hospital,NH,1.0
+Tanzania,Referral Hospital,RH,10.0
+Tanzania,Regional Referral Hospital,RRH,26.0
+Togo,Centre Hospitalier Prefectoral,CHP,30.0
+Togo,Centre Hospitalier Regional,CHR,5.0
+Togo,Centre Hospitalier Universitaire,CHU,3.0
+Togo,Centre Medico-Social,CMS,51.0
+Togo,Unite de Soins Peripherique,USP,118.0
+Uganda,Clinic,CLINIC,21.0
+Uganda,Health Centre II,HCII,2217.0
+Uganda,Health Centre III,HCIII,1242.0
+Uganda,Health Centre IV,HCIV,191.0
+Uganda,Hospital,HOSP,110.0
+Uganda,National Referral Hospital,NRH,2.0
+Uganda,Regional Referral Hospital,RRH,9.0
+Zambia,Clinic,CLINIC,52.0
+Zambia,District Hospital,DH,
+Zambia,General Hospital,GH,
+Zambia,Health Centre,HC,118.0
+Zambia,Health Post,HP,895.0
+Zambia,Hospital,HOSP,
+Zambia,Hospital Affiliated Health Centre,HAHC,
+Zambia,Level I Hospital,LIH,68.0
+Zambia,Level II Hospital,LIIH,19.0
+Zambia,Level III Hospital,LIIIH,4.0
+Zambia,Mission Hospital,MH,
+Zambia,Referral Hospital,RH,
+Zambia,Rural Health Centre,RHC,107.0
+Zambia,Universty Teaching Hospital,UTH,
+Zanzibar,District Hospital,DH,3.0
+Zanzibar,Primary Health Care Centre,PHCC,4.0
+Zanzibar,Primary Health Care Unit,PHCU,109.0
+Zanzibar,Primary Health Care Unit Plus,PHCUP,28.0
+Zanzibar,Tertiary Hospital,TH,1.0
+Zimbabwe,Central Hospital,CH,6.0
+Zimbabwe,Clinic,CLINIC,563.0
+Zimbabwe,District Hospital,DH,47.0
+Zimbabwe,District/Provincial Hospital,DPH,1.0
+Zimbabwe,Provincial Hospital,PH,7.0
+Zimbabwe,Rural Health Clinic,RHC,504.0
+Zimbabwe,Rural Hospital,RH,108.0
+eSwatini,Clinic,CLINIC,23.0
+eSwatini,Clinic with Maternity,CWM,12.0
+eSwatini,Clinic without Maternity,CWOM,78.0
+eSwatini,Health Centre,HC,8.0
+eSwatini,Mission Hospital,MH,2.0
+eSwatini,Public Health Unit,PHU,8.0
+eSwatini,Referral Hospital,RFH,1.0
+eSwatini,Regional Hospital,RGH,3.0
