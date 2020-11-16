@@ -1,0 +1,7 @@
+numpy==1.19.0+mkl
+pandas==1.0.5
+geopandas==0.7.0
+Fiona==1.8.13
+Unidecode==1.1.1
+fuzzywuzzy==0.18.0
+ordered-set==4.0.2
