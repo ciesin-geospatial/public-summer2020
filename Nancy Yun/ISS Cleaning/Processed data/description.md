@@ -9,3 +9,11 @@ The country-specific type dictionary generated from HDX_WHO data. It also includ
 Results after cleaning the facility names and extracting facility types from the ISS data.
 
 Columns include 'index', 'Country', 'clean_name', 'clean_name_final', 'extract_type', 'sub_type', 'score'. 'index' is the row index starting from 0 and can be used to merge back to the original dataset.
+
+- iss_1203.zip
+
+Cleaned ISS data.
+
+iss_dropped1_1203.csv: results after first round cleaning.
+
+iss_dropped2_1203.csv: results after second round cleaning.
